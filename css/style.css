@@ -130,3 +130,16 @@ html {
     font-weight: 400;
 }
 
+.botaoDeleta {
+    background-color: #c1382e;
+    border: 2px #491033 solid;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: .9rem;
+    padding: .4rem;
+    width: 45px;
+}
+
+.botaoDeleta:hover {
+    background-color: #af342c;
+}
